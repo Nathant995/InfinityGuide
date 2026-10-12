@@ -1,22 +1,23 @@
-# Validation — 9 October 2026
+# Validation — reference edition, 12 October 2026
 
-Completed:
+## Passed
 
-- Generated 21 static HTML files: welcome page, 19 guides/reference pages and a 404 page.
-- Validated 920 local links/assets and same-site heading fragments with no missing targets.
-- Checked unique HTML IDs and screenshot alternative text.
-- Verified all 19 supplied PNG files decode correctly and are referenced by the site.
-- Passed JavaScript syntax checks for the application and full-text search index.
-- Built the site using only Python's standard library; no web build dependency is required for hosting.
-- Checked that asset and navigation URLs are relative to support GitHub Pages repository paths.
+- Python generator rebuilt the site from the bundled source and JSON, without the original wiki HTML.
+- 82 HTML files validated for local targets, fragment links, duplicate IDs and image alt text.
+- 5,073 local references resolved after the content update.
+- Chromium browser checks covered all 62 non-alias guide entries at 390px width: no page-level horizontal overflow or JavaScript errors.
+- Selected landing, controls, recipe, XP and bronze-workshop pages checked at 320px.
+- Desktop landing and recipe tool visually inspected at 1440px; mobile landing and XP layout inspected at 390px.
+- Site search, mobile navigation, saved-guide dialog, bookmark/checklist persistence and remembered platform choice exercised.
+- Control table switches to the selected platform, with two visible columns.
+- Three Bronze Swords calculate 24 Bronze Bars and 540 Artisan XP at ×3.
+- From 0 XP to level 99 at 20 base XP/action and ×3, the XP calculator returns 16,667 actions.
+- XP dataset contains 99 strictly increasing cumulative totals, starting at 0 and ending at 1,000,000.
 
-Limitations:
+## Boundaries
 
-- Browser-based visual and interaction testing could not be completed in this environment. The local browser dependency could not be installed, and the remote browser could not access the local preview. Responsive layouts and interactions are implemented but are not claimed to have passed end-to-end browser testing.
-- External wiki topic pages could not all be checked live due to automated-access restrictions. Jagex source pages were reviewed separately.
-- The roadmap is a dated summary, and server settings/passwords require manual maintenance.
-- This package provides no visitor authentication. Hosting access controls determine whether it is private.
-
-To repeat the structural check, run `python source/validate.py` from this folder. If Node.js is available, run `node --check assets/app.js` and `node --check assets/search-index.js`.
-
-Before publishing, open `index.html` or serve the folder locally, test a search and a checklist, and view the layout on your phone. Hosting instructions are in README.md.
+- Browser checks used Linux Chromium, not physical Xbox, PlayStation or Switch hardware.
+- Controller-equivalent mappings are labelled where no native platform screenshot was independently verified.
+- The source wiki can restrict automated live access. Saved wiki tables supply the recipe and skill datasets; community references supplied and cross-checked the XP curve.
+- No live game or server was modified or tested. Deployment was not performed.
+- Static validation checks local links; external wiki destinations remain subject to changes and redirects.

@@ -8,7 +8,7 @@ try {const data=JSON.parse(localStorage.getItem(key));if(data&&typeof data==='ob
 let timer;
 function toast(msg){$('#toast').textContent=msg;$('#toast').classList.add('visible');clearTimeout(timer);timer=setTimeout(()=>$('#toast').classList.remove('visible'),2800);}
 function save(){try{localStorage.setItem(key,JSON.stringify(state));}catch{toast('Browser storage is unavailable. Changes last for this page only.');}}
-const index=window.GUIDE_INDEX||[];
+const index=(window.GUIDE_INDEX||[]).filter(p=>!p.alias);
 function update(){
  $$('[data-bookmark]').forEach(b=>{const on=state.saved.includes(b.dataset.bookmark);b.setAttribute('aria-pressed',String(on));b.textContent=on?'Saved ✓':'Save guide';});
  $$('[data-read]').forEach(b=>{const on=state.read.includes(b.dataset.read);b.setAttribute('aria-pressed',String(on));b.textContent=on?'Read ✓':'Mark as read';});
@@ -53,7 +53,5 @@ $$('.print-button').forEach(b=>b.addEventListener('click',()=>window.print()));
 $$('[data-copy]').forEach(b=>b.addEventListener('click',async()=>{try{if(!navigator.clipboard)throw Error();await navigator.clipboard.writeText(b.dataset.copy);toast('Copied to clipboard.');}catch{const input=document.createElement('textarea');input.value=b.dataset.copy;input.style.position='fixed';input.style.opacity='0';document.body.append(input);input.select();let ok=false;try{ok=document.execCommand('copy');}catch{}input.remove();toast(ok?'Copied to clipboard.':'Copy this text: '+b.dataset.copy);}}));
 $$('[data-table-filter]').forEach(input=>{const table=input.closest('label').nextElementSibling;const status=document.createElement('p');status.className='small';status.setAttribute('aria-live','polite');table.after(status);input.addEventListener('input',()=>{const q=input.value.trim().toLowerCase();let count=0;$$('tbody tr',table).forEach(row=>{const match=row.textContent.toLowerCase().includes(q);row.hidden=!match;if(match)count++;});status.textContent=q?(count?count+' matching rows':'No matching rows. Try another term.') : '';});});
 document.addEventListener('keydown',e=>{const typing=e.target.matches('input,textarea,[contenteditable=true]');if(e.key==='/'&&!typing&&!$('dialog[open]')){e.preventDefault();showSearch();}if(e.key==='Escape'&&$('#sidebar').classList.contains('open')){setMenu(false);$('#menu-toggle').focus();}});
-
-$$('.reference-filter').forEach(input=>{const panel=input.closest('.data-table');const rows=$$('tbody tr',panel);const foot=$('.data-foot',panel);const base=foot.textContent;input.addEventListener('input',()=>{const q=input.value.toLocaleLowerCase().trim();let count=0;rows.forEach(row=>{const ok=row.textContent.toLocaleLowerCase().includes(q);row.hidden=!ok;if(ok)count++});foot.textContent=q?`${count} matching entries${count===0?' · Try a different word':''}`:base;});});
 update();themeLabel();
 })();

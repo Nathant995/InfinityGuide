@@ -1,0 +1,3283 @@
+{
+  "Agility": {
+    "source": "https://dragonwilds.runescape.wiki/w/Agility",
+    "tables": [
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "All",
+            "Sprinting Stamina Reduction",
+            "Passive",
+            "Reduces stamina drain of sprinting by 0.085% per level until 8.415% at level 99."
+          ],
+          [
+            "1",
+            "Brynmoor Courses",
+            "Unlock",
+            "Unlocks Brynmoor courses."
+          ],
+          [
+            "5",
+            "Windstep",
+            "Spell",
+            "Reclassified from Runecrafting to Agility. At higher levels, landing creates an air blast that knocks down nearby enemies."
+          ],
+          [
+            "10",
+            "Double Jump",
+            "Ability",
+            "Perform a second jump mid-air. Can be chained directly into an Air Dash."
+          ],
+          [
+            "15",
+            "Ghornfell Courses",
+            "Unlock",
+            "Unlocks Ghornfell courses."
+          ],
+          [
+            "22",
+            "Hopper",
+            "Passive",
+            "Reduces stamina cost of jumping."
+          ],
+          [
+            "27",
+            "Common Burrower",
+            "Shortcut",
+            "Allows the use of Brynmoor and Ghornfell burrow networks."
+          ],
+          [
+            "30",
+            "Fellhollow Courses",
+            "Unlock",
+            "Unlocks Fellhollow courses."
+          ],
+          [
+            "32",
+            "Air Dash",
+            "Ability",
+            "Execute a short, horizontal aerial dash to cross gaps and evade attacks in combat."
+          ],
+          [
+            "35",
+            "Breakfall",
+            "Passive",
+            "Automatically roll out of high falls to reduce landing damage."
+          ],
+          [
+            "40",
+            "Wind Stomp",
+            "Ability",
+            "Stagger nearby enemies when landing from Windstep."
+          ],
+          [
+            "42",
+            "Wild Burrower",
+            "Shortcut",
+            "Allows the use of Fellhollow burrow network. Additionally, the chance of taking damage and the received amount are reduced."
+          ],
+          [
+            "44",
+            "Phase Dash",
+            "Spell",
+            "Allows the use of a second dash while airborne."
+          ],
+          [
+            "48",
+            "Nomad",
+            "Passive",
+            "Increases the amount of passive experience gained while exploring from 50 to 200."
+          ],
+          [
+            "50",
+            "Backpacker",
+            "Passive",
+            "Maximum carry weight increases by 75."
+          ],
+          [
+            "51",
+            "Dowdun Reach Courses",
+            "Unlock",
+            "Unlocks Dowdun Reach courses."
+          ],
+          [
+            "53",
+            "Stamina Potion",
+            "Recipe",
+            "Unlocks the recipe to craft stamina potions that can stop stamina drain while running."
+          ],
+          [
+            "54",
+            "Greater Breakfall",
+            "Passive",
+            "Further reduces fall damage."
+          ],
+          [
+            "55",
+            "Dark Burrower",
+            "Shortcut",
+            "Allows the use of the Dowdun Reach burrow network."
+          ],
+          [
+            "57",
+            "Recall",
+            "Spell",
+            "Leaves a runic marker on the ground; recasting teleports you back to it. Taking a fatal fall while tethered teleports you back safely and consumes the tether."
+          ],
+          [
+            "65",
+            "Umbral Sands Courses",
+            "Unlock",
+            "Unlocks Umbral Sands courses."
+          ],
+          [
+            "67",
+            "Desert Burrower",
+            "Shortcut",
+            "Allows the use of the Umbral Sands burrow network."
+          ],
+          [
+            "70",
+            "Reactive Recall",
+            "Spell",
+            "Recall now automatically triggers upon receiving fatal fall damage, protecting the caster."
+          ],
+          [
+            "75",
+            "Explorer",
+            "Passive",
+            "Maximum carry weight increases by an additional 75."
+          ],
+          [
+            "80",
+            "Razor-backed Burrower",
+            "Shortcut",
+            "Further reduces the chance of taking damage and the amount received while travelling through the kebbit burrow network."
+          ],
+          [
+            "85",
+            "Trailblazer",
+            "Passive",
+            "Increases the amount of passive experience gained from exploration from 200 to 400."
+          ],
+          [
+            "99",
+            "Agility Skillcape",
+            "Recipe",
+            "Unlocks the ability to craft and wear the Agility skillcape and its trimmed variant."
+          ]
+        ]
+      }
+    ]
+  },
+  "Armour Bench": {
+    "source": "https://dragonwilds.runescape.wiki/w/Armour_Bench",
+    "tables": []
+  },
+  "Artisan": {
+    "source": "https://dragonwilds.runescape.wiki/w/Artisan",
+    "tables": [
+      {
+        "headers": [
+          "Trinket",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Inspiring Ring of Artisan",
+            "Increases the player's experience gain in Artisan by 5%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Food",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Sweet Veg Ball",
+            "300s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Wild Pie",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Forager's Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Meat Twist Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Glazed Pumpkin Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Potion",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Weak Focused Artisan Potion",
+            "300s",
+            "Focused Artisan",
+            "Grants a 15% XP BOOST for the ARTISAN Skill"
+          ],
+          [
+            "Lesser Focused Artisan Potion",
+            "600s",
+            "Focused Artisan",
+            "Grants a 15% XP BOOST for the ARTISAN Skill"
+          ],
+          [
+            "Focused Artisan Potion",
+            "300s",
+            "Focused Artisan II",
+            "Grants a 30% XP BOOST for the ARTISAN Skill"
+          ],
+          [
+            "Super Focused Artisan Potion",
+            "600s",
+            "Focused Artisan II",
+            "Grants a 30% XP BOOST for the ARTISAN Skill"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Artisan Cape",
+            "Repairing gear costs no resources when this cape is worn."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "All",
+            "Durability Loss on Equipment",
+            "Passive",
+            "Reduces the durability loss on equipment by -0.5% per level, up to -49% at level 99."
+          ],
+          [
+            "11",
+            "Bark To Bones",
+            "Spell",
+            "Use Alchemy to transmute a tree into a stack of bones for all your grisly needs."
+          ],
+          [
+            "20",
+            "Superheat",
+            "Spell",
+            "Cast on fire-based stations to empower them and boost their processing speed for a while"
+          ],
+          [
+            "28",
+            "Storage Ledger",
+            "Item",
+            "Unlocks the Storage Ledger building piece."
+          ],
+          [
+            "40",
+            "Decorated Adventurer",
+            "Recipe",
+            "Unlocks the armour mannequin and cape rack, allowing you to display all of your armour sets and capes with pride!"
+          ],
+          [
+            "48",
+            "Overdrive",
+            "Spell",
+            "Cast on mechanical-based processing stations to empower them and boost their processing speed for a while."
+          ],
+          [
+            "56",
+            "Magical Mending",
+            "Spell",
+            "Throw your items down and repair them instantly through the power of nature magic."
+          ],
+          [
+            "66",
+            "Superheat Upgrade",
+            "Passive",
+            "Speed Boost now lasts even longer."
+          ],
+          [
+            "80",
+            "Overdrive Upgrade",
+            "Passive",
+            "Speed Boost now lasts even longer."
+          ],
+          [
+            "90",
+            "Magical Mending Upgrade",
+            "Passive",
+            "Restores even more durability to your tools!"
+          ],
+          [
+            "99",
+            "Artisan Skillcape",
+            "Recipe",
+            "A true showcase of skill mastery. Unlocks the ability to craft and wear the Artisan skillcape."
+          ]
+        ]
+      }
+    ]
+  },
+  "Black Knight's Fortress": {
+    "source": "https://dragonwilds.runescape.wiki/w/Black_Knight%27s_Fortress",
+    "tables": [
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "South-West",
+            "Cut down vines w/ mithril logging axe then standard interact",
+            "You can acquire the cathedral shard by heading south-west to a courtyard full of Zamorakian acolytes and mages and, using your mithril (or above) logging axe, cut down the vines. As the mages and acolytes are hostile by default, you will need to take them down first."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "East",
+            "Defeat Sergeant Blister",
+            "He is located underground in The Garrison region, protected by two hellhounds and a small host of skeletons. The requirements to interact/collect this shard are the same as defeating the shardbound lesser demons."
+          ],
+          [
+            "West",
+            "Standard interact",
+            "Navigate past the elite Black Knight and two Zamorakian acolytes to an open wall with some wooden boards. Use the Windstep spell to jump up and across to the nearby adjacent tower. Once you have arrived, either defeat or avoid the elite Black Knight to interact with the shard."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "East",
+            "Interact with Spittletoe",
+            "Spittletoe instructs you to collect five Maple Sap. Once you provide the sap, Spittletoe will trade you the shard."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Grand Hall shard steps"
+        ],
+        "rows": [
+          [
+            "Speak with Spittletoe Speak with Spittletoe, while having the maple sap in your inventory. Continue dialogue until you receive a shard. Note: When interacting with Spittletoe in the kitchen, it is possible for the Zogre to aggro the player from above, even without being in line of sight.[uncheck all] If you do not have the maple sap, look for maple trees and chop them down till you get one"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "North-West",
+            "Defeat 2x shardbound lesser demon",
+            "Open the library door by interacting with (in order) the following books: The Empty Throne The Eye of Oculus Taking the Crown Zamorak's Rebellion Note: You can make it easier to take them down by leading them up the spiral staircase. Despite the player needing to interact with the doorway to phase through, the lesser demons can't walk through, allowing them to be attacked with ranged from behind the door."
+          ],
+          [
+            "South-West",
+            "Interact with Valerius",
+            "Go to the top of the staircase (a floor above where Valerius can be found) and West, past the blue dragon, and veer right as soon as you pass under the cliff. Equip your spade and dig in front of the gargoyle statue to uncover the glass owl. Return this item to Valerius to acquire this shard."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "South",
+            "Dig with spade Cut down vines w/ mithril logging axe",
+            "Find three levers to unlock the door. The first lever is inside of the broken down roof of the tiny house (located next to the windmill). You'll need to cast Windstep to reach the roof, then use your spade here to dig it up and interact with it. The second lever is inside of a cave nearby protected by a thorny vine wall along the rock wall to the right of the shard. You will need a mithril or better logging axe to chop these vines. The third and final lever is on the top level of the nearby stone ruins, located beside the air anima vent. You'll need to use Windstep to reach this level. This area is guarded by a lesser blue dragon."
+          ],
+          [
+            "South-East",
+            "Standard interact",
+            "Follow along the lower area cliffs to reach an area where you can jump across. You'll also locate a group of hellhounds on your way there, but you can either ignore them or defeat them until you locate a series of beams. Traverse the beams by jumping up to the next level until you reach the top where you'll need to jump across to the stone rock where the shard is located. Note: You'll need plenty of air runes to use Windstep for this particular jumping puzzle. An alternative way is to equip your leggings of lightness and use Windstep from where you received the previous shard from finding the three levers, down to the cliffs. Be sure not to jump and head down, instead, fall with the spell and the leggings to avoid damage."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "North",
+            "Mine a granite deposit",
+            "Reach the highest part of the goblin-infested fortress. In the middle of the area, there is a granite deposit that hides the shard. You can either avoid or defeat the blue dragon here to get to the shard, but you can use the Rocksplosion spell to quickly interact with the shard."
+          ],
+          [
+            "East",
+            "Interact button",
+            "Defeat the goblins in the immediate area of the shard before interacting with it."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "The Crypt",
+            "Dig with spade/shovel",
+            "Navigate to The Crypt in the underground region. Before searching for the shard, defeat the zogre here. This will save you trouble later. Interact with the note next to the goblin corpse to learn that the shard is buried in a grave. Dig at any of the graves until you uncover the shard. Note: The location of this shard is randomized for every world."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "The demon gate",
+            "Defeat 2x shardbound lesser demon",
+            "Navigate to the lowest part of the region. There is a lever-activated elevator that will take you down to the demon gate region. For easier traversal later, interact with the nearby nodestone to connect it to the Nexus. Navigate through the pathways until you reach the stone structure and defeat the two lesser demons guarding the shard."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Location",
+          "Interact Type",
+          "Details"
+        ],
+        "rows": [
+          [
+            "The Lake",
+            "Speak with Offalfoot",
+            "He will ask you to give him one of the fish nearby (requires an empty inventory slot), so you'll need to grab one from the nearby pool of fish. This will give you an unusual trout and give this trout to Offalfoot. He'll give you the shard. Note: You do need a fishing rod (the highest level is recommended) and this can be done with level 1 Fishing. You will encounter Delrom when traversing to through this location."
+          ]
+        ]
+      }
+    ]
+  },
+  "Blacksmith's Bench": {
+    "source": "https://dragonwilds.runescape.wiki/w/Blacksmith%27s_Bench",
+    "tables": []
+  },
+  "Combat": {
+    "source": "https://dragonwilds.runescape.wiki/w/Combat",
+    "tables": []
+  },
+  "Construction": {
+    "source": "https://dragonwilds.runescape.wiki/w/Construction",
+    "tables": [
+      {
+        "headers": [
+          "Trinket",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Inspiring Ring of Construction",
+            "Increases the player's experience gain in Construction by 5%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Food",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Sweet Veg Ball",
+            "300s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Wild Pie",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Forager's Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Meat Twist Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Glazed Pumpkin Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Potion",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Weak Focused Construction Potion",
+            "300s",
+            "Focused Construction",
+            "Grants a 15% XP BOOST for the CONSTRUCTION Skill"
+          ],
+          [
+            "Lesser Focused Construction Potion",
+            "600s",
+            "Focused Construction",
+            "Grants a 15% XP BOOST for the CONSTRUCTION Skill"
+          ],
+          [
+            "Focused Construction Potion",
+            "300s",
+            "Focused Construction II",
+            "Grants a 30% XP BOOST for the CONSTRUCTION Skill"
+          ],
+          [
+            "Super Focused Construction Potion",
+            "600s",
+            "Focused Construction II",
+            "Grants a 30% XP BOOST for the CONSTRUCTION Skill"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Construction Cape",
+            "You have a small chance to not use building materials when placing a build piece."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "3",
+            "Middle Ground",
+            "Recipe",
+            "Unlocks medium-sized building pieces."
+          ],
+          [
+            "5",
+            "Fine Details",
+            "Recipe",
+            "Unlocks small building pieces."
+          ],
+          [
+            "8",
+            "Sacred Geometry",
+            "Recipe",
+            "Unlocks triangular building pieces."
+          ],
+          [
+            "11",
+            "Eye of Oculus",
+            "Spell",
+            "Become the mystical Eye of Oculus and build structures easier and with a whole new perspective!"
+          ],
+          [
+            "16",
+            "Creature Comforts",
+            "Recipe",
+            "Unlocks an assortment of furniture and decorations."
+          ],
+          [
+            "18",
+            "Mighty Oak",
+            "Recipe",
+            "Unlocks the next tier of building pieces."
+          ],
+          [
+            "20",
+            "Summon Shelter",
+            "Spell",
+            "Construct a temporary shelter through the power of astral magic. It even has a bed!"
+          ],
+          [
+            "22",
+            "Countryside",
+            "Recipe",
+            "Unlocks Thatched Roofs."
+          ],
+          [
+            "30",
+            "Bastion",
+            "Recipe",
+            "Unlocks additional stone building pieces."
+          ],
+          [
+            "35",
+            "Baroque Stone",
+            "Recipe",
+            "Unlocks additional stone building pieces"
+          ],
+          [
+            "40",
+            "Personal Chest",
+            "Spell",
+            "Access your personal storage chest from anywhere."
+          ],
+          [
+            "45",
+            "Desert Dweller",
+            "Recipe",
+            "Unlocks additional Kharidian building pieces."
+          ],
+          [
+            "53",
+            "Construction Material Weight Reduction",
+            "Passive",
+            "Reduces the weight of Construction Materials."
+          ],
+          [
+            "62",
+            "Eye of Occulus Upgrade",
+            "Passive",
+            "Now magnetizes materials into your inventory."
+          ],
+          [
+            "99",
+            "Construction Skillcape",
+            "Recipe",
+            "Unlock the ability to craft and wear the Construction cape"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Tome",
+          "Experience"
+        ],
+        "rows": [
+          [
+            "Tome of Construction - Vol 1",
+            "100"
+          ],
+          [
+            "Tome of Construction - Vol 2",
+            "400"
+          ]
+        ]
+      }
+    ]
+  },
+  "Cooking Range": {
+    "source": "https://dragonwilds.runescape.wiki/w/Cooking_Range",
+    "tables": [
+      {
+        "headers": [
+          "Product",
+          "Hydration",
+          "Rest",
+          "Weight",
+          "Perk(s)",
+          "Duration",
+          "Materials"
+        ],
+        "rows": [
+          [
+            "1 x Redberry Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Quenched",
+            "300s",
+            "1 x Clean Water 1 x Redberries"
+          ],
+          [
+            "1 x Evasive Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Evasion",
+            "300s",
+            "1 x Clean Water 1 x Small Animal Fang"
+          ],
+          [
+            "1 x Fleet-Footed Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Fleet Footed",
+            "300s",
+            "1 x Clean Water 1 x Feathers"
+          ],
+          [
+            "1 x Ferocious Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Ferocious Fighter",
+            "300s",
+            "1 x Clean Water 1 x Animal Bone 1 x Harralander"
+          ],
+          [
+            "1 x Relentless Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Relentless Ranger",
+            "300s",
+            "1 x Clean Water 1 x Animal Hide Scraps 1 x Harralander"
+          ],
+          [
+            "1 x Arcane Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Arcane Aligned",
+            "300s",
+            "1 x Clean Water 1 x Antler 1 x Harralander"
+          ],
+          [
+            "1 x Dwellberry Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Quenched",
+            "600s",
+            "1 x Clean Water 1 x Dwellberries"
+          ],
+          [
+            "1 x Cadavaberry Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Quenched",
+            "900s",
+            "1 x Clean Water 1 x Dried Cadavaberries"
+          ],
+          [
+            "1 x Pumpkin Spice Infusion",
+            "+80",
+            "",
+            "1.0",
+            "Soul Food",
+            "150s",
+            "1 x Clean Water 1 x Roast Pumpkin 1 x Irit"
+          ],
+          [
+            "1 x Maple Infusion",
+            "+80",
+            "",
+            "1.0",
+            "Stalwart Shield",
+            "300s",
+            "1 x Clean Water 1 x Maple Syrup 1 x Irit"
+          ],
+          [
+            "1 x Strong Tea",
+            "+10",
+            "+20",
+            "1.0",
+            "",
+            "",
+            "1 x Ground Tea Leaves 3 x Clean Water"
+          ],
+          [
+            "1 x Strong Sweet Tea",
+            "+10",
+            "+20",
+            "1.0",
+            "Sugar Rush",
+            "300s",
+            "1 x Ground Tea Leaves 3 x Clean Water 1 x Maple Syrup"
+          ],
+          [
+            "1 x Cooling Fleet-Footed Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Fleet Footed Frosted Flavours",
+            "600s",
+            "1 x Cactus Water 1 x Onion 1 x Snapdragon"
+          ],
+          [
+            "1 x Cooling Relentless Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Relentless Ranger Frosted Flavours",
+            "600s",
+            "1 x Cactus Water 1 x Shrapnel 1 x Toadflax"
+          ],
+          [
+            "1 x Cooling Arcane Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Arcane Aligned Frosted Flavours",
+            "600s",
+            "1 x Cactus Water 1 x Anima-infused Bark 1 x Toadflax"
+          ],
+          [
+            "1 x Cooling Evasive Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Evasion Frosted Flavours",
+            "600s",
+            "1 x Cactus Water 1 x Shocking Plant Bulb 1 x Snapdragon"
+          ],
+          [
+            "1 x Cooling Ferocious Infusion",
+            "+40",
+            "",
+            "1.0",
+            "Ferocious Fighter Frosted Flavours",
+            "600s",
+            "1 x Cactus Water 1 x Dragon Tooth 1 x Toadflax"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Product",
+          "Health",
+          "Sustenance",
+          "Weight",
+          "Perk(s)",
+          "Duration",
+          "Materials"
+        ],
+        "rows": [
+          [
+            "1 x Vegetable Soup",
+            "+40",
+            "+50",
+            "0.8",
+            "",
+            "",
+            "1 x Fried Cabbage 1 x Baked Potato"
+          ],
+          [
+            "1 x Redberry Roast Rat",
+            "+30",
+            "+45",
+            "1.2",
+            "",
+            "",
+            "1 x Rat Roast 1 x Dried Redberries"
+          ],
+          [
+            "1 x Meat Stew",
+            "+50",
+            "+50",
+            "1.4",
+            "",
+            "",
+            "1 x Fillet 1 x Haunch"
+          ],
+          [
+            "1 x Steak 'N' Eggs",
+            "+40",
+            "+50",
+            "1.2",
+            "",
+            "",
+            "1 x Fried Egg 1 x Steak"
+          ],
+          [
+            "1 xRedberry Crunchies",
+            "+50",
+            "+35",
+            "1.0",
+            "",
+            "",
+            "1 x Dried Redberries 1 x Wheat"
+          ],
+          [
+            "1 x Dwellberry Crunchies",
+            "+70",
+            "+40",
+            "1.0",
+            "",
+            "",
+            "1 x Dried Dwellberries 1 x Wheat"
+          ],
+          [
+            "1 x Shrimp Omelette",
+            "+50",
+            "+15",
+            "0.7",
+            "Sea Legs",
+            "600s",
+            "1 x Fried Egg 1 x Sauteed Shrimp"
+          ],
+          [
+            "1 x Sauteed Sardines",
+            "+70",
+            "+25",
+            "0.7",
+            "Sea Life",
+            "600s",
+            "1 x Fried Sardine 1 x Dried Redberries"
+          ],
+          [
+            "1 x Herb Baked Trout",
+            "+100",
+            "+35",
+            "0.7",
+            "",
+            "",
+            "1 x Grilled Trout 1 x Baked Potato"
+          ],
+          [
+            "1 x Eggs Royale",
+            "+120",
+            "+30",
+            "0.7",
+            "Sea Life",
+            "900s",
+            "1 x Fried Egg 1 x Fried Salmon"
+          ],
+          [
+            "1 x Undead Delight",
+            "+180",
+            "+70",
+            "0.7",
+            "Sea Life",
+            "1,200s",
+            "1 x Grilled Undead Bass 1 x Grilled Tomatoes"
+          ],
+          [
+            "1 x Monkfish Skewers",
+            "+120",
+            "+50",
+            "1.4",
+            "Sea Life Frosted Flavours",
+            "300s",
+            "1 x Monkfish Fillets 1 x Seared Cactus Steak"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Product",
+          "Health",
+          "Sustenance",
+          "Weight",
+          "Perk(s)",
+          "Duration",
+          "Materials"
+        ],
+        "rows": [
+          [
+            "1 x Sweet Veg Ball",
+            "+70",
+            "+65",
+            "0.5",
+            "Knowledgable Nourishment",
+            "300s",
+            "1 x Fried Cabbage 1 x Baked Potato 1 x Dried Redberries"
+          ],
+          [
+            "1 x Mixed Grill",
+            "+70",
+            "+70",
+            "2.0",
+            "Meaty Meal",
+            "300s",
+            "1 x Fillet 1 x Haunch 1 x Steak"
+          ],
+          [
+            "1 x Cheeky Fryup",
+            "+70",
+            "+70",
+            "2.0",
+            "Foreman's Feast",
+            "300s",
+            "1 x Rat Roast 1 x Baked Potato 1 x Fried Egg"
+          ],
+          [
+            "1 x Beef & Tomato Stew",
+            "+60",
+            "+65",
+            "2.0",
+            "",
+            "",
+            "1 x Grilled Tomatoes 1 x Steak 1 x Dried Redberries"
+          ],
+          [
+            "1 x Vegan Fryup",
+            "+70",
+            "+70",
+            "2.0",
+            "",
+            "",
+            "1 x Baked Potato 1 x Fried Cabbage 1 x Grilled Tomatoes"
+          ],
+          [
+            "1 x Beltfish Broth",
+            "+130",
+            "+25",
+            "1.1",
+            "",
+            "",
+            "1 x Steamed Beltfish 1 x Peach 1 x Fried Cabbage"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Product",
+          "Health",
+          "Sustenance",
+          "Weight",
+          "Perk(s)",
+          "Duration",
+          "Materials"
+        ],
+        "rows": [
+          [
+            "1 x Squeaking Sausage",
+            "+80",
+            "+80",
+            "2.0",
+            "Grounded",
+            "300s",
+            "1 x Dried Dwellberries 1 x Fried Onions 1 x Rat Roast"
+          ],
+          [
+            "1 x Pungent Omelette",
+            "+70",
+            "+70",
+            "2.0",
+            "Fungal Fortitude",
+            "300s",
+            "1 x Fried Cabbage 1 x Grilled Mushrooms 1 x Fried Egg"
+          ],
+          [
+            "1 x Roast Dinner",
+            "+80",
+            "+80",
+            "2.0",
+            "Coagulated",
+            "300s",
+            "1 x Flank Steak 1 x Baked Potato 1 x Dried Redberries"
+          ],
+          [
+            "1 x Dubious Meat Pie",
+            "+50",
+            "+100",
+            "2.0",
+            "Ravenous Steadfast Stomach",
+            "300s",
+            "1 x Roast Pumpkin 1 x Cauterised Undead Steak 1 x Bread"
+          ],
+          [
+            "1 x Fruit Pie",
+            "+90",
+            "+85",
+            "2.0",
+            "",
+            "",
+            "1 x Dried Redberries 1 x Dried Dwellberries 1 x Bread"
+          ],
+          [
+            "1 x Pumpkin Soup",
+            "+70",
+            "+75",
+            "2.0",
+            "Soul Food",
+            "300s",
+            "1 x Roast Pumpkin 1 x Baked Potato 1 x Fried Cabbage"
+          ],
+          [
+            "1 x Berry Drizzle Pan-Seared",
+            "+160",
+            "+65",
+            "0.7",
+            "",
+            "",
+            "1 x Smoked Herring 1 x Seared Anchovies 1 x Dried Dwellberries"
+          ],
+          [
+            "1 x Fish Fry",
+            "+180",
+            "+55",
+            "0.7",
+            "",
+            "",
+            "1 x Fried Cabbage 1 x Braised Undead Eel 1 x Roasted Lobster"
+          ],
+          [
+            "1 x Stir-Fry",
+            "+150",
+            "+70",
+            "0.7",
+            "Sea Legs Sea Life",
+            "600s",
+            "1 x Dried Giant Krill 1 x Dried Dwellberries 1 x Smoked Infernal Eel"
+          ],
+          [
+            "1 x Stuffed Catfish",
+            "+200",
+            "+80",
+            "0.7",
+            "",
+            "",
+            "1 x Dried Giant Krill 1 x Fried Cabbage 1 x Braised Catfish"
+          ],
+          [
+            "1 x Meat Sandwich",
+            "+80",
+            "+85",
+            "2.0",
+            "Meaty Meal Grounded",
+            "600s",
+            "1 x Flank Steak 1 x Rat Roast 1 x Bread"
+          ],
+          [
+            "1 x Forager's Sandwich",
+            "+70",
+            "+80",
+            "2.0",
+            "Knowledgable Nourishment Fungal Fortitude",
+            "600s",
+            "1 x Fried Cabbage 1 x Grilled Mushrooms 1 x Bread"
+          ],
+          [
+            "1 x Steak Sandwich",
+            "+90",
+            "+80",
+            "2.0",
+            "Coagulated Grounded Fungal Fortitude",
+            "600s",
+            "1 x Flank Steak 1 x Fried Onions 1 x Grilled Mushrooms 1 x Bread"
+          ],
+          [
+            "1 x Meat Twist Sandwich",
+            "+90",
+            "+80",
+            "2.0",
+            "Knowledgable Nourishment Meaty Meal Foreman's Feast",
+            "600s",
+            "1 x Flank Steak 1 x Rat Roast 1 x Dried Redberries 1 x Bread"
+          ],
+          [
+            "1 x Glazed Pumpkin Sandwich",
+            "+80",
+            "+100",
+            "2.0",
+            "Knowledgable Nourishment Foreman's Feast Soul Food",
+            "600s",
+            "1 x Dried Redberries 1 x Roast Pumpkin 1 x Maple Syrup 1 x Bread"
+          ],
+          [
+            "1 x Maple Toastie",
+            "+70",
+            "+80",
+            "2.0",
+            "Foreman's Feast Coagulated",
+            "600s",
+            "1 x Dried Redberries 1 x Maple Syrup 1 x Bread"
+          ],
+          [
+            "1 x Swabbie Pie",
+            "+220",
+            "+80",
+            "1.5",
+            "",
+            "",
+            "1 x Sun Baked Sole 1 x Steamed Beltfish 1 x Bread 1 x Baked Potato"
+          ],
+          [
+            "1 x Umbral Kebab",
+            "+80",
+            "+90",
+            "1.2",
+            "Frosted Flavours Soul Food",
+            "300s",
+            "1 x Seared Cactus Steak 1 x Bread 1 x Roast Pumpkin 1 x Steak"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Product",
+          "Health",
+          "Sustenance",
+          "Weight",
+          "Perk(s)",
+          "Duration",
+          "Materials"
+        ],
+        "rows": [
+          [
+            "1 x Mushroom Kebab",
+            "+120",
+            "+110",
+            "0.7",
+            "Foreman's Feast Fungal Fortitude",
+            "600s",
+            "1 x Grilled Mushrooms 1 x Fried Cabbage 1 x Haunch 1 x Bread"
+          ],
+          [
+            "1 x Wild Pie",
+            "+90",
+            "+110",
+            "0.7",
+            "Knowledgable Nourishment Grounded",
+            "600s",
+            "1 x Fried Onions 1 x Baked Potato 1 x Dried Dwellberries 1 x Bread"
+          ],
+          [
+            "1 x Meat Pizza",
+            "+90",
+            "+110",
+            "0.7",
+            "Meaty Meal Coagulated",
+            "600s",
+            "1 x Flank Steak 1 x Fillet 1 x Haunch 1 x Bread"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Product",
+          "Health",
+          "Sustenance",
+          "Weight",
+          "Perk(s)",
+          "Duration",
+          "Materials"
+        ],
+        "rows": [
+          [
+            "Plant Cure",
+            "N/A",
+            "N/A",
+            "1.0",
+            "N/A",
+            "N/A",
+            "2 x Weeds 1 x Animal Bone 1 x Clean Water"
+          ],
+          [
+            "Victoria Sponge Cake",
+            "+50",
+            "+85",
+            "0.4",
+            "Sugar Rush",
+            "300s",
+            "2 Dried Redberries 2 Eggs 2 Redberry Infusions 4 Wheat"
+          ]
+        ]
+      }
+    ]
+  },
+  "Dragon Slayer": {
+    "source": "https://dragonwilds.runescape.wiki/w/Dragon_Slayer",
+    "tables": []
+  },
+  "First Steps": {
+    "source": "https://dragonwilds.runescape.wiki/w/First_Steps",
+    "tables": []
+  },
+  "Fishing": {
+    "source": "https://dragonwilds.runescape.wiki/w/Fishing",
+    "tables": [
+      {
+        "headers": [
+          "Name",
+          "Power level",
+          "XP",
+          "Weight",
+          "Bait",
+          "Pristine"
+        ],
+        "rows": [
+          [
+            "Raw shrimp",
+            "2",
+            "8",
+            "0.2",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Raw sardine",
+            "2",
+            "20",
+            "1.5",
+            "Shrimp Bait",
+            "Pristine Sardine"
+          ],
+          [
+            "Raw trout",
+            "2",
+            "25",
+            "2.1",
+            "Feather Bait",
+            "Pristine Trout"
+          ],
+          [
+            "Raw anchovies",
+            "3",
+            "12",
+            "1.0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Raw herring",
+            "3",
+            "30",
+            "1.8",
+            "Anchovy Bait",
+            "Pristine Herring"
+          ],
+          [
+            "Raw salmon",
+            "3",
+            "35",
+            "1.8",
+            "Feathered Lure",
+            "Pristine Salmon"
+          ],
+          [
+            "Raw lobster",
+            "4",
+            "16",
+            "2.4",
+            "N/A",
+            "Pristine Lobster"
+          ],
+          [
+            "Raw undead eel",
+            "4",
+            "45",
+            "3.4",
+            "Lobster Bait",
+            "Pristine Undead Eel"
+          ],
+          [
+            "Raw undead bass",
+            "4",
+            "45",
+            "3.0",
+            "Spooky Bait",
+            "Pristine Undead Bass"
+          ],
+          [
+            "Raw giant krill",
+            "4",
+            "20",
+            "2.9",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Raw infernal eel",
+            "4",
+            "55",
+            "3.1",
+            "Giant Krill Bait",
+            "Pristine Infernal Eel"
+          ],
+          [
+            "Raw armoured catfish",
+            "4",
+            "60",
+            "4.5",
+            "Animated Feather",
+            "Pristine Armoured Catfish"
+          ],
+          [
+            "Raw monkfish",
+            "7",
+            "35",
+            "2.5",
+            "N/A",
+            "Pristine Monkfish"
+          ],
+          [
+            "Raw desert sole",
+            "7",
+            "65",
+            "2.5",
+            "Monkfish Bait",
+            "Pristine Desert Sole"
+          ],
+          [
+            "Raw beltfish",
+            "7",
+            "60",
+            "2.5",
+            "Kalphite Bait",
+            "Pristine Beltfish"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Region",
+          "Best-in-slot fishing rod"
+        ],
+        "rows": [
+          [
+            "Brynmoor",
+            "Ash Rod"
+          ],
+          [
+            "Ghornfell",
+            "Oak Rod"
+          ],
+          [
+            "Fellhollow",
+            "Willow Rod"
+          ],
+          [
+            "Dowdun Reach",
+            "Maple Rod"
+          ],
+          [
+            "Umbral Sands",
+            "Yew Rod"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "All",
+            "Increased Fish Stamina Drain Rate",
+            "Passive",
+            "Increases the stamina drain rate of the fish by 1%."
+          ],
+          [
+            "3",
+            "Fishing Rod",
+            "Passive",
+            "Unlocks the ability to craft fishing rods."
+          ],
+          [
+            "10",
+            "Fishing Frenzy",
+            "Spell",
+            "Enchant a fishing node. Each successful catch provide an additional fish of the same type while the effect lasts."
+          ],
+          [
+            "17",
+            "Pristine Fish",
+            "Passive",
+            "Unlocks the ability to catch rare pristine fish, which yields more food when cooked, or can be used as a decoration."
+          ],
+          [
+            "23",
+            "Fish Weight Reduction",
+            "Passive",
+            "Reduces the carry weight of all fish by 25%."
+          ],
+          [
+            "30",
+            "Infernal Rod",
+            "Spell",
+            "Enchant your currently equipped rod with fire for 2 minutes. All fish caught with that rod during the effect are instantly cooked."
+          ],
+          [
+            "34",
+            "Fish Barrel Storage",
+            "Passive",
+            "Unlocks the fishing barrel structure. A very high capacity storage for fishes."
+          ],
+          [
+            "39",
+            "Tackle Box",
+            "Passive",
+            "Unlocks the recipe to build a storage box for your baits."
+          ],
+          [
+            "43",
+            "Troubled Waters",
+            "Passive",
+            "Fishing Frenzy now reduces fish's maximum stamina by 15% while spell is active."
+          ],
+          [
+            "49",
+            "Increase Net Fishing Catch Chance",
+            "Passive",
+            "Increase the net fishing catch chance to 75%."
+          ],
+          [
+            "55",
+            "Fishnado",
+            "Spell",
+            "Conjure a tornado that pulls out up to 5 fish from a fishing node."
+          ],
+          [
+            "60",
+            "Greater Fishnado",
+            "Passive",
+            "Reduces the cooldown for the Fishnado spell."
+          ],
+          [
+            "70",
+            "Experienced Angler",
+            "Passive",
+            "Unlock the recipe for a fishing hat. While worn, you have a 10% chance per catch to not deplete a fish in the fishing spot."
+          ],
+          [
+            "99",
+            "Fishing Skillcape",
+            "Passive",
+            "Unlocks the ability to craft and wear the Fishing skillcape and its trimmed variant."
+          ]
+        ]
+      }
+    ]
+  },
+  "Fletching Bench": {
+    "source": "https://dragonwilds.runescape.wiki/w/Fletching_Bench",
+    "tables": []
+  },
+  "Furnace": {
+    "source": "https://dragonwilds.runescape.wiki/w/Furnace",
+    "tables": []
+  },
+  "Getting Started": {
+    "source": "https://dragonwilds.runescape.wiki/w/Getting_Started",
+    "tables": []
+  },
+  "Gods": {
+    "source": "https://dragonwilds.runescape.wiki/w/Gods",
+    "tables": []
+  },
+  "Guide for new players": {
+    "source": "https://dragonwilds.runescape.wiki/w/Guide_for_new_players",
+    "tables": [
+      {
+        "headers": [
+          "PC/Desktop",
+          "Console"
+        ],
+        "rows": [
+          [
+            "Jagex Launcher",
+            "Xbox Store"
+          ],
+          [
+            "Steam",
+            "Playstation Store"
+          ],
+          [
+            "Epic Games Store",
+            "Nintendo eShop"
+          ],
+          [
+            "Also available on...",
+            "Also available on..."
+          ],
+          [
+            "Xbox Game Pass (Premium and Ultimate)",
+            "Playstation Plus (Plus Extra and Premium)"
+          ]
+        ]
+      }
+    ]
+  },
+  "History": {
+    "source": "https://dragonwilds.runescape.wiki/w/History",
+    "tables": [
+      {
+        "headers": [
+          "Event",
+          "Brief description"
+        ],
+        "rows": [
+          [
+            "Current cycle of the universe begins",
+            "The Elder Gods shape the known universe after destroying the last one from the previous cycle, in an event known as the Great Revision. They eventually created Gielinor, their perfect world. Bik, Ful, and Wen laid their eggs deep within it, so that the anima the world produced would feed them. Jas had no egg to lay, having sacrificed hers to create the Stone of Jas. The dragonkin, a race of winged, reptile-like creatures, would survive the Great Revision by hiding in the Abyss."
+          ],
+          [
+            "Creation of Ashenfall",
+            "They noticed that some anima created tasted different, thus they turned a continent of the planet into a vent for the anima, which would create an event known as the Anima Twist."
+          ],
+          [
+            "The servitors of the Elder Gods",
+            "When the Elder Gods settled upon Gielinor, they brought the TokHaar, servants of the Elders, who were tools of the The Elder Kiln that helped forge the world. Some would be moved to Ashenfall in order to safeguard the Lens, a tool that was made to ensure the sun's light would be in a perfect temperature for the world. They would later be known as the KotHaar."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Event",
+          "Brief description"
+        ],
+        "rows": [
+          [
+            "The Rise of the Dragonkin",
+            "After millennia of searching for a new suitable homeworld, the dragonkin would land on Gielinor and found Orthen (which translates to \"first city\") on what is now Anachronia. The dragonkin researched and documented the world's native flora and fauna."
+          ],
+          [
+            "The Fall of the Dragonkin",
+            "A particular dragonkin by the name of Kerapac creates the Crucible, a device capable of converting normal anima into shadow anima, which he claims can bring their society equal in power to that of the Elder Gods. Without the approval of the other dragonkin, Kerapac uses this dangerous device, transforming vast quantities of anima. This angers the Elder Gods and, in response, Jas would destroy Orthen and enslave the dragonkin to the Stone of Jas."
+          ],
+          [
+            "The Curse of the Stone",
+            "Bound to the Stone as its guardians, the dragonkin were made to feel the pain of its misuse and were driven to hunt down any who were not an Elder God that drew power from it. The binding could not be undone, and the factions of Orthen each turned to a different means of escaping it. Kerapac's own Dactyl answered with science and created the dragons, hoping for a line beyond Jas's reach. The Nodon chose instead to sleep, entering a shared dream to wait the curse out. The Aughra left their bodies behind altogether, projecting their consciousness into other forms. The Necrosyrtes gave themselves over to the curse and took up the hunt as their purpose."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Event",
+          "Brief description"
+        ],
+        "rows": [
+          [
+            "Guthix's Discovery of Ashenfall",
+            "After travelling through the cosmos, Guthix discovered Gielinor and filled the world with new inhabitants. He also found several elder artefacts, tools used by the Elder Gods. He would discover Ashenfall and the unique properties of the continent with some of his followers, making a settlement in Brynmoor."
+          ],
+          [
+            "Creation of runes",
+            "During Guthix's stay in Ashenfall, he discovered magical rocks, researching, and studying them to try to get them to harness the element of the world, thus creating the first runes after using the Stone of Jas for help."
+          ],
+          [
+            "Settlement Forming",
+            "Guthix would depart from Ashenfall to spread his discovery to the rest of the inhabitants he brought with him. Those who followed him to Ashenfall would remain and start forming settlements. The first being Bramblemead Village, which was founded by Guthix when Ashenfall was discovered. Some humans would form the Wild Knights, an order of skilled scouts who protect the people from the wild."
+          ],
+          [
+            "The Schism",
+            "As the humans grew to inhabit their new homes, several would change in appearance, with beards turning into leaves, skin glowing like fire, and some even transforming to take on the qualities of the elements, thus gaining elemental abilities and becoming Amalgamated humans. Some humans would see them as impure or imperfect, where they would treat the Amalgamated humans differently, where the Amalgamated humans would suffer persecution and even be murdered by those who feared them. The Wild Knights and some other humans would attempt to protect the Amalgamated humans, offering them refuge against those who hunted them down."
+          ],
+          [
+            "Veil over Ashenfall",
+            "Guthix would return to Ashenfall, where he would witness, in horror, the crimes some of his followers committed. He would take some of the humans with him to the mainland- those who did not join the rest in killing the Amalgamated- and leave those who murdered the Amalgamated in Ashenfall. He would then appoint the Wild Knights as protectors of Ashenfall, to safeguard the wilds from the settlers and the settlers from the wilds. Guthix would attempt to hide Ashenfall from the rest of the world, placing a veil over the continent in the hope that it would not be discovered. Guthix would then hide from the world and go into a deep sleep, in the hope that he would be forgotten."
+          ],
+          [
+            "The Dragonkin's arrival",
+            "Despite the veil being placed, a group of dragonkin, who were fleeing persecution known as the Cabal would discover Ashenfall and settle within the northern region of Ashenfall, where they would use the continent's anima to create a new settlement for themselves. They would spread across Ashenfall, creating Vaults to commence different experiments."
+          ],
+          [
+            "The garou's arrival",
+            "The garou would arrive on Gielinor, led by their goddess Lougrim and settled in the mainland"
+          ],
+          [
+            "Gods arrival",
+            "On the mainland, a different continent, more gods would begin to arrive on Gielinor, causing minor conflicts over land and followers. Different gods would arrive, and others would ascend within Gielinor, each one claiming a large amount of land and followers. The Kharidian - Zarosian War would be a major point in history, ending with the betrayal of the Mahjarrat and the Zarosian Empire as the victor."
+          ],
+          [
+            "Zamorak's usurpation",
+            "Late in the Second Age, the Mahjarrat Zamorak turned on his master. Using two of the elder artefacts, he betrayed Zaros and drained away enough of his power to ascend as a god in his own right, leaving Zaros presumed defeated and vanished into the void. News of the usurpation spread across Gielinor, and it was that news which began the God Wars."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Event",
+          "Brief description"
+        ],
+        "rows": [
+          [
+            "The God Wars",
+            "Years after the defeat of Zaros by the hand of Zamorak, Zamorak returned from his departure to reclaim the Stone of Jas The mainland would be in a global conflict, with Zamorak fighting against Saradomin, Armadyl, and sometimes Bandos. Other gods and/or their followers participated in the war to claim land or power; some allied with one another. Civilians would flee the mainland in search of a new place to live in, not tainted by war. Amongst them are the garou, leg by lougrim"
+          ],
+          [
+            "Settlers",
+            "During the God Wars, Saradominist missionaries would arrive on the continent in hopes of escaping the ongoing war on the mainland. They would be welcomed and eventually start converting the Guthixians to worship Saradomin. Sometime later, the Runecrafting Guild was built to allow the Saradominist wizards a place of study and magical research. The Temple of Saradomin was later built as a house of worship. The Adventurer's Guild was formed to train new adventurers. The Bronze Advisors, an alliance between the Saradominists and Guthixians, would be formed to oversee equality between both religious beliefs. Some Zamorakians, who travelled with the Saradominist refugees in secret, would form the Children of Shadows. Lougrim would escape the mainland with the garou, settling within Ghornfell."
+          ],
+          [
+            "Saradominist ruling",
+            "The Saradominists would seek to become the dominant influence in Bramblemead, overthrowing the Guthixian druids and pushing them elsewhere on the continent. Policies began to slip more and more in favour of the Saradominist approach as the Guthixian faith slowly dwindled. The settlement of Bramblemead would begin to be ruled by a lord. The Keep of Blue Flames would be built for the lord to watch over the settlement. The Knights of Saradomin were formed as official police and army forces for Bramblemead. The Rasmodels would be exiled from Brynmoor, forcing them to travel further into the continent to make a home within Dowdun Reach. The Children of Shadows would follow along as their guards, later being reformed as the Black Knights."
+          ],
+          [
+            "Conflict with the garou",
+            "The humans would soon deplete all of the iron within Bramblemead Valley and encroach into the northern regions in search of more iron. Some garou hunting parties would see this as disrespectful, and small skirmishes between the two took place. After the death of their prince, the Human-Garou War commenced. It mostly led to a stalemate, as the Whispering Swamp acted as a barrier between Brynmoor and the northern region."
+          ],
+          [
+            "Human-Garou War",
+            "The humans were forced to make a deal with the goblins for the assistance of the Bandosian army, with Bandos himself arriving to oversee the war in an attempt to face Lougrim, with whom he had a history. The garou would be pushed back, forcing Lougrim to make a deal with the dragonkin to tip the outcome in her favour. The dragonkin would unleash their dragons to attack the humans and their Bandosian allies. Bandos would personally intervene and face Velgar. Despite nearly winning, Bandos would be bested due to his arrogance, forcing the god of war to retreat. Velgar spilled his toxic blood on the fertile fields to the east, and this created the Bloodblight Swamp The Human loss would allow Lougrim to show mercy, forcing an uneasy alliance between the humans and garou. Kuldra would be created later on thanks to Lougrim's blood."
+          ],
+          [
+            "Era of uneasy peace",
+            "After the conflict, some human settlers would move to Fellhollow, to get away from the conflict the garou and humans were still committing. They founded Emberwood village. The ogres would arrive and live in harmony with the human settlers there. Imaru and Xikotal would be discovered by the settlers, but would be protected by the dragons, who assisted them in growing their crops and defending them from stray dragons. Within Dowdun Reach, the Black Knights would continue their rule, enslaving goblins and welcoming refugees, ensuring they worked as well."
+          ],
+          [
+            "Dragon Rebellion",
+            "Years after Kuldra's creation, she assembled an army to overthrow the dragonkin. The dragonkin would start dying out, leaving Kuldra to be titled Dragon Queen. Lougrim and Kuldra would later fight, causing the Fractured Plains to be formed in Ghornfell. Kuldra would ambush Lougrim and devour her. Kuldra becomes the High Queen; some of the garou reject her claim due to her victory being dishonourable. These factions would move to Umbral Sands."
+          ],
+          [
+            "Umbral Sands' discovery",
+            "The garou living here would struggle, as they were not used to living in a sandy region. They would discover Elidinis, who had arrived in the region at an unknown point in time. She began to teach the garou how to live in the region. She would soon be worshipped by them after her followers on the mainland learned she was associated with the moon. Cities would be made, allowing them to live in much better conditions Elidinis would later leave Gielinor."
+          ],
+          [
+            "Dragon Attack",
+            "After overthrowing their masters and devouring Lougrim, Kuldra would order her children and the dragons to attack the human settlements. Imaru and Xikotal showed mercy to the humans, which was a direct affront to Kuldra's orders. Xikotal would be killed by Kuldra as punishment, leaving Imaru and the humans in Emberwood to grieve. Velgar would lay waste to Brynmoor's settlement, ruling it and Ghornfell. Fuzan would rule over Umbral Sands, where he would terrorise the garou there. After hearing of the dragon's attack, the Black Knights would defend the keep against invading dragons."
+          ],
+          [
+            "Imaru's Curse",
+            "Imaru would seek Ravanna to revive her beloved; instead, she is gifted with more power, a curse. Imaru would attempt to use this against Kuldra, only to be killed by the God-Eater. Imaru would drink from the River Noumenon and claw her way out from death to continue her fight against Kuldra. Instead, she is corrupted and becomes hungry for souls. Due to the spreading rot and corruption of Imaru, inhabitants of Fellhollow would slowly turn into undead. Ravanna, unwilling to see the whole of Ashenfall and the greater world of Gielinor fall to Imaru's hunger, would split Imaru's curse into three fragments and seal the undead dragon in her tower."
+          ],
+          [
+            "Dreaming Stone",
+            "After hearing of Imaru's death, the Black Knights were ordered to spare any blue dragon, believing it could preserve balance. The Wither plague within Fellhollow would cause the knights to close and block the access that linked the two regions. Guards were stationed in the crypt and graveyard to ensure undead would not rise due to the plague. Eventually, the Dreaming Stone, a crystal discovered by the knights, would start spreading whispers amongst them. Madness would start, and with the Dreaming Stone destroyed, it lingered for centuries."
+          ],
+          [
+            "Scorching Desert",
+            "Fuzan rules over Umbral Sands and attacks the garou there. He would speak to an entity who claims she was a god from off-world, a queen, and promised Fuzan power that could outshine even his mother. He accepts and begins to worship her. Fuzan learned to better wield his flames and other flames, and to mark the souls of his victims to empower himself and the goddess. Fuzan would take control of the KotHaar and the Lens, rendering the region uninhabitable during the day. The Entity would gather followers among the garou, either by transforming them or by having them worship the sun or flames. Fuzan would continue to terrorize the garou in Umbral Sands for fun."
+          ],
+          [
+            "Destruction of Forinthry",
+            "On the mainland, an alliance of Saradomin, Bandos, and Armadyl pushed Zamorak to the brink of defeat. In a last desperate ploy he used the Stone of Jas to set off a blast that wiped the region of Forinthry from the map, leaving behind the Wilderness in its place. Aside from whole settlements of aviansie, an army of them was reduced to ash in the same moment, among them Armadyl's own husband. The devastation was enough to wake Guthix from his slumber."
+          ],
+          [
+            "End of the God Wars",
+            "Guthix would awaken and end the gods' war using the Edicts to place a barrier around Gielinor, evicting the gods and ensuring none enters Gielinor, only the demigods and powerful beings would remain."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Event",
+          "Brief description"
+        ],
+        "rows": [
+          [
+            "Lost in the Veil",
+            "Ashenfall remains hidden within the veil. Any survivors who fled would lose their memories of it. Some travellers would encounter Ashenfall and either die there or leave, but could never spread the knowledge of it. Gielinor as a whole would slowly recover from the God Wars, rediscovering Runecrafting, teleportation, and more."
+          ],
+          [
+            "Guthix's death",
+            "Guthix's resting place was discovered, alerting all of the gods' followers who wished for their respective god to return. The Guardians of Guthix would arrive, and with the assistance of the Adventurer The adventurer is made a new guardian. Guthix was slain by the Mahjarrat Sliske The adventurer is titled the World Guardian, with the power to protect Gielinor."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Event",
+          "Brief description"
+        ],
+        "rows": [
+          [
+            "Return of the gods",
+            "With Guthix dead and his Edicts undone, the gods returned to Gielinor and the world fell into conflict once more. Zamorak and Saradomin were the first to fight, attempting to claim Guthix's energy found in Lumbridge. Zamorak was defeated. A contest for the Stone of Jas was issued by Sliske, with the winner needing to be the one who kills the most gods. Bandos would participate and build a weapon to kill a god. Armadyl would do the same in order to prevent Bandos from using the weapon. Bandos was defeated and killed. Zaros returned. Brassica Prime and Marimbo would have their own \"conflict\", a party contest, where Brassica was the winner. Tuska started making her way to Gielinor. Most of the world's factions joined forces to stop her. The Godless is victorious in dealing the most damage. She is slain by Vorago, who allied with the Godless. Seren returned. The Heart of Gielinor is found, and a battle has started between Zarosians, Serenists, Zamorakians, and Sliske's followers. Sliske's contest ends, with the stone being destroyed. A council is formed to deal with a new threat: the Elder Gods. Zaros would leave this universe, entering Erebus. Elder Gods' eggs are close to hatching. The eggs are moved to a secure location, and the remaining gods would assist in harnessing the anima within them to delay the hatching. A battle was started between the Elder Gods and the mortals of Gielinor. The battle concluded with Jas being sealed in Erebus and the eggs being hatched in Iaia, where they remain with Seren. Zamorak would invade Gielinor with his army of demons and followers. The world factions once again joined forces to defend the civilians. The World Guardian and the Guardians of Guthix learn how to recreate the Edicts of Guthix. The World Guardian, with help, fought Zamorak and banished him from Gielinor. Eventually, all other gods are banished as well, even those who are considered as powerful as gods, such as Nex. Gielinor, once again, is in the hands of mortals."
+          ],
+          [
+            "The Doomed Expedition",
+            "After the turmoil on the mainland, Ashenfall was revealed, and many rich individuals funded an expedition to discover more about this mysterious land. This expedition would find the continent of Ashenfall ruled by dragons, and many members would die in dragon attacks. Only the Wise Old Man, the leader of the expedition, Vannaka, Zanik, Doric, and a young adventurer called Cathan would be among the survivors of the attacks who'd wash up upon the shores of Ashenfall."
+          ],
+          [
+            "Discovery of Temple Woods",
+            "Traversing through the wilderness of Ashenfall, the remaining survivors would discover an old Saradominist church ravaged by time's decay. They would uncover an inactive lodestone in the church and, using supplies they found on their travels, repair it to contact the mainland. While waiting for reinforcements from the mainland, the young adventurer Cathan would leave the group to set off on his own to defeat the dragon overlords."
+          ],
+          [
+            "The Fight against Dragons",
+            "With contact established with the mainland, many adventurers teleport into the ruined Saradominist temple to meet with the Wise Old Man and learn the basics of surviving in this strange continent. Once these adventurers get their bearings, they report to the Wise Old Man, who sends them out to look for Cathan. They eventually find his ghost lingering near his skeleton near Velgar's Rise in Ghornfell, who tells them about making a horn to challenge Velgar. They defeat Velgar and open the way to Fellhollow and to put to rest the revenant dragoness Imaru at the behest of Death. After putting Imaru to her final rest, handing her head to Death, they head to the ominous gateway to meet up with the Wise Old Man once more to uncover the secrets of the Dreaming Stone (later revealed to be a dragonkin called Avisk) and open the way to the Umbral Sands. When the way opened to the desert, defeating the Black Knight Titan, they ventured forth to meet with Icthlarin and build a reputation with the Moon Garou to overthrow the tyrant Fuzan. With Fuzan defeated, the only threat left was his mother, Kuldra."
+          ]
+        ]
+      }
+    ]
+  },
+  "Icthlarin's Little Helper": {
+    "source": "https://dragonwilds.runescape.wiki/w/Icthlarin%27s_Little_Helper",
+    "tables": [
+      {
+        "headers": [
+          "NPC",
+          "Dialogue options"
+        ],
+        "rows": [
+          [
+            "Alabrais the Science Councillor",
+            "Fuzan's aim is to control you, like his KotHaar There is only evidence Fuzan destroys Fuzan's constant is control of others"
+          ],
+          [
+            "Brialka the Historian Councillor",
+            "You're making a choice that will affect generations A garou alliance would make us stronger The garou have always united to survive"
+          ],
+          [
+            "Chirot the Broker Councillor",
+            "Fuzan's actions have cost you money Before or after Fuzan takes his cut? Fuzan will steal what you wish to steal"
+          ]
+        ]
+      }
+    ]
+  },
+  "Inventory": {
+    "source": "https://dragonwilds.runescape.wiki/w/Inventory",
+    "tables": []
+  },
+  "Jeweler's Bench": {
+    "source": "https://dragonwilds.runescape.wiki/w/Jeweler%27s_Bench",
+    "tables": []
+  },
+  "Kiln": {
+    "source": "https://dragonwilds.runescape.wiki/w/Kiln",
+    "tables": []
+  },
+  "Loom": {
+    "source": "https://dragonwilds.runescape.wiki/w/Loom",
+    "tables": []
+  },
+  "Magic": {
+    "source": "https://dragonwilds.runescape.wiki/w/Magic",
+    "tables": [
+      {
+        "headers": [
+          "Rune",
+          "Base Damage",
+          "Passive",
+          "\"Arcane Expertise\" Combo Description"
+        ],
+        "rows": [
+          [
+            "Air",
+            "13-22",
+            "Knockdown",
+            "Casts a wind tunnel AoE in front of the player, which knocks down enemies in its path."
+          ],
+          [
+            "Earth[d 1]",
+            "N/A",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Water",
+            "7-13",
+            "Slowness",
+            "Casts a tsunami effect and a small splash for healing the caster and filling up their thirst meter."
+          ],
+          [
+            "Fire",
+            "6-10",
+            "Burn",
+            "Casts a circular fire shower AoE on the ground for several seconds, which burns enemies who walk through it."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "All",
+            "Reduced Magic Stamina",
+            "Passive",
+            "Reduces the cost of magical stamina drain by 0.5% per level."
+          ],
+          [
+            "1",
+            "Air Magic",
+            "Passive",
+            "Summon the unrelenting force of air! Equip air runes to unleash the power of wind against an enemy, dealing high single target damage and knocking your enemies down!"
+          ],
+          [
+            "5",
+            "Magic Special Actions",
+            "Passive",
+            "Charge up and release powerful secondary staff spells."
+          ],
+          [
+            "7",
+            "Water Magic",
+            "Passive",
+            "Conjure the supportive power of water! Equip water runes to damage and slow your enemies while also healing yourself and your allies. Kills with water magic have a chance to spawn water orbs."
+          ],
+          [
+            "11",
+            "Surge",
+            "Spell",
+            "Channel arcane power into your dodges, travelling further and evading longer as a result."
+          ],
+          [
+            "16",
+            "Arcane Expertise",
+            "Passive",
+            "Unlocks an additional powerful magical attack at the end of staff magic combos."
+          ],
+          [
+            "20",
+            "Runic Refund",
+            "Passive",
+            "Your greater understanding of magic gives you a 30% chance to preserve runes when attacking with magic."
+          ],
+          [
+            "21",
+            "Fire Magic",
+            "Passive",
+            "Wield the destructive forces of fire. Equip fire runes to deal medium damage to enemies in a large area and build up Burning on them to reduce them to ash"
+          ],
+          [
+            "25",
+            "Afterimage",
+            "Passive",
+            "Distract your enemies by leaving behind an illusionary image for a short time when you use your first Surge charge."
+          ],
+          [
+            "30",
+            "Confuse",
+            "Spell",
+            "Twist the minds of lesser enemies, making them unable to distinguish between friend and foe for a limited time."
+          ],
+          [
+            "34",
+            "Magic Potion",
+            "Recipe",
+            "Unlock the recipe for the magic potion at the brewing cauldron."
+          ],
+          [
+            "39",
+            "Magic Focus",
+            "Recipe",
+            "Allows crafting of magic focus at the crafting table, which can be used to imbue magic staves to increase their damage!"
+          ],
+          [
+            "44",
+            "Greater Confuse",
+            "Passive",
+            "The Confuse spell now works on a wider variety of creatures."
+          ],
+          [
+            "61",
+            "Enfeeble",
+            "Spell",
+            "Weakens the attacks of the targeted opponent."
+          ],
+          [
+            "80",
+            "Vengeance",
+            "Spell",
+            "A spell that reflects incoming damage back at the enemies."
+          ],
+          [
+            "99",
+            "Magic Cape",
+            "Unlock",
+            "Unlocks the ability to wear and craft the Magic skillcape and its trimmed variant."
+          ]
+        ]
+      }
+    ]
+  },
+  "Mining": {
+    "source": "https://dragonwilds.runescape.wiki/w/Mining",
+    "tables": [
+      {
+        "headers": [
+          "Spell",
+          "Level",
+          "Upgrade",
+          "Upgrade level"
+        ],
+        "rows": [
+          [
+            "Rocksplosion",
+            "11",
+            "Ultimate Burst",
+            "51"
+          ],
+          [
+            "Summon Stone Spirits",
+            "24",
+            "—",
+            "—"
+          ],
+          [
+            "Divine Rock",
+            "80",
+            "Accelerated Veins",
+            "90"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Power Level",
+          "Minable nodes"
+        ],
+        "rows": [
+          [
+            "Stone pickaxe",
+            "1",
+            "Stone boulder Rune Essence Clay"
+          ],
+          [
+            "Bone pickaxe",
+            "2",
+            "The following nodes, including previous tier: Copper Ore Tin Ore Sandstone"
+          ],
+          [
+            "Bronze pickaxe",
+            "3",
+            "The following nodes, including previous tier: Iron Ore Silver ore Granite Blurite ore"
+          ],
+          [
+            "Iron pickaxe",
+            "4",
+            "The following nodes, including previous tier: Gold ore Coal Dragon tooth"
+          ],
+          [
+            "Steel pickaxe",
+            "5",
+            "The following nodes, including previous tier: Mithril ore"
+          ],
+          [
+            "Mithril pickaxe",
+            "6",
+            "The following nodes, including previous tier: Adamant ore Limestone Gypsum"
+          ],
+          [
+            "Adamant pickaxe",
+            "7",
+            "The following nodes, including previous tier: Runite Ore"
+          ],
+          [
+            "Rune Pickaxe",
+            "8",
+            "All available nodes."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Focused Mining",
+            "Grants a 15% XP BOOST for the MINING Skill"
+          ],
+          [
+            "Focused Mining II",
+            "Grants a 30% XP BOOST for the MINING Skill"
+          ],
+          [
+            "Quarrymaster",
+            "REDUCES the STAMINA cost of MINING by 33%"
+          ],
+          [
+            "Quarrymaster II",
+            "REDUCES the STAMINA cost of MINING by 66%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Trinket",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Inspiring Ring of Mining",
+            "Increases the player's experience gain in Mining by 5%"
+          ],
+          [
+            "Skills Necklace",
+            "Grants a small bonus chance to get extra resources when gathering Fishing, Mining and Woodcutting resources."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Food",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Sweet Veg Ball",
+            "300s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Wild Pie",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Forager's Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Meat Twist Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Glazed Pumpkin Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Potion",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Weak Focused Mining Potion",
+            "300s",
+            "Focused Mining",
+            "Grants a 15% XP BOOST for the MINING Skill"
+          ],
+          [
+            "Lesser Focused Mining Potion",
+            "600s",
+            "Focused Mining",
+            "Grants a 15% XP BOOST for the MINING Skill"
+          ],
+          [
+            "Focused Mining Potion",
+            "300s",
+            "Focused Mining II",
+            "Grants a 30% XP BOOST for the MINING Skill"
+          ],
+          [
+            "Super Focused Mining Potion",
+            "600s",
+            "Focused Mining II",
+            "Grants a 30% XP BOOST for the MINING Skill"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Mining Cape",
+            "You have a small chance to instantly finish mining an ore rock."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Food",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Cheeky Fryup",
+            "300s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Mushroom Kebab",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Meat Twist Sandwich",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Glazed Pumpkin Sandwich",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Maple Toastie",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Potion",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Weak Quarrymaster Potion",
+            "300s",
+            "Quarrymaster",
+            "REDUCES the STAMINA cost of MINING by 33%"
+          ],
+          [
+            "Lesser Quarrymaster Potion",
+            "600s",
+            "Quarrymaster",
+            "REDUCES the STAMINA cost of MINING by 33%"
+          ],
+          [
+            "Quarrymaster Potion",
+            "300s",
+            "Quarrymaster II",
+            "REDUCES the STAMINA cost of MINING by 66%"
+          ],
+          [
+            "Super Quarrymaster Potion",
+            "600s",
+            "Quarrymaster II",
+            "REDUCES the STAMINA cost of MINING by 66%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Source",
+          "Location",
+          "Minimum Required pickaxe"
+        ],
+        "rows": [
+          [
+            "Copper ore",
+            "Copper ore node",
+            "Fractured Plains",
+            "Bone pickaxe"
+          ],
+          [
+            "Tin ore",
+            "Tin ore node",
+            "Fractured Plains",
+            "Bone pickaxe"
+          ],
+          [
+            "Silver ore",
+            "Silver ore node",
+            "Bloodblight Swamp",
+            "Bronze pickaxe"
+          ],
+          [
+            "Gold ore",
+            "Gold ore node",
+            "Bloodblight Swamp",
+            "Iron pickaxe"
+          ],
+          [
+            "Iron ore",
+            "Iron ore node",
+            "Stormtouched Highlands",
+            "Bronze pickaxe"
+          ],
+          [
+            "Blurite ore",
+            "Blurite ore node",
+            "Takla Kara vault",
+            "Iron pickaxe"
+          ],
+          [
+            "Mithril ore",
+            "Mithril ore node",
+            "Dowdun Reach",
+            "Steel pickaxe"
+          ],
+          [
+            "Adamant ore",
+            "Adamantite ore node",
+            "Umbral Sands",
+            "Mithril pickaxe"
+          ],
+          [
+            "Runite ore",
+            "Runite Ore Node",
+            "Scorned Wilderness",
+            "Adamant pickaxe"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Source",
+          "Location",
+          "Minimum Required pickaxe"
+        ],
+        "rows": [
+          [
+            "Rune essence",
+            "Rune essence geyser",
+            "Everywhere",
+            "Stone pickaxe"
+          ],
+          [
+            "Stone",
+            "Stone boulder",
+            "Everywhere",
+            "Stone pickaxe"
+          ],
+          [
+            "Clay",
+            "Clay node",
+            "Whispering Swamp",
+            "Stone pickaxe"
+          ],
+          [
+            "Sandstone",
+            "Sandstone rock",
+            "Fractured Plains",
+            "Bone pickaxe"
+          ],
+          [
+            "Granite",
+            "Granite deposit",
+            "Stormtouched Highlands",
+            "Bronze pickaxe"
+          ],
+          [
+            "Coal",
+            "Coal node",
+            "Fellhollow",
+            "Iron pickaxe"
+          ],
+          [
+            "Soul fragment",
+            "Soul stone",
+            "Spectral door rifts (Fellhollow)",
+            "Steel pickaxe"
+          ],
+          [
+            "Limestone",
+            "Limestone rock",
+            "Dowdun Reach",
+            "Mithril pickaxe"
+          ],
+          [
+            "Gypsum",
+            "Gypsum node",
+            "Umbral Sands",
+            "Mithril pickaxe"
+          ],
+          [
+            "Luminite Ore",
+            "Luminite Deposit",
+            "Scorned Wilderness",
+            "Adamant Pickaxe"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Source",
+          "Location",
+          "Minimum Required pickaxe"
+        ],
+        "rows": [
+          [
+            "Opal",
+            "Copper ore node",
+            "Fractured Plains",
+            "Stone pickaxe"
+          ],
+          [
+            "Opal",
+            "Tin ore node",
+            "Fractured Plains",
+            "Stone pickaxe"
+          ],
+          [
+            "Jade",
+            "Iron ore node",
+            "Stormtouched Highlands",
+            "Bronze pickaxe"
+          ],
+          [
+            "Red topaz",
+            "Silver ore node",
+            "Bloodblight Swamp",
+            "Bronze pickaxe"
+          ],
+          [
+            "Sapphire",
+            "Gold ore node",
+            "Bloodblight Swamp",
+            "Bronze pickaxe"
+          ],
+          [
+            "Diamond",
+            "Coal node",
+            "Fellhollow",
+            "Iron pickaxe"
+          ],
+          [
+            "Dragonstone",
+            "Adamantite ore node",
+            "Umbral Sands",
+            "Mithril pickaxe"
+          ],
+          [
+            "Dragonstone",
+            "Runite Ore Node",
+            "Scorned Wilderness",
+            "Adamant Pickaxe"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "All",
+            "Increased Mining Critical Chance",
+            "Passive",
+            "Increases Mining critical hit chance by 0.3% per level."
+          ],
+          [
+            "5",
+            "Lift With Your Hips",
+            "Passive",
+            "The weight of stone, clay, and sand raw material is reduced by 25%."
+          ],
+          [
+            "11",
+            "Rocksplosion",
+            "Spell",
+            "Conjure a powerful blast to break apart stone boulders and ore."
+          ],
+          [
+            "16",
+            "Gem Prospector",
+            "Passive",
+            "Mining ore now sometimes produces precious gemstones."
+          ],
+          [
+            "20",
+            "Mine Crumbled Walls",
+            "Passive",
+            "Allows you to knock down crumbled walls with a pickaxe, granting access to hidden or blocked areas."
+          ],
+          [
+            "24",
+            "Summon Stone Spirits",
+            "Spell",
+            "Call on the Stone Spirits to guide you to the nearest rocks you can mine!"
+          ],
+          [
+            "36",
+            "Not-So-Heavy Metal",
+            "Passive",
+            "The weight of metal ores is reduced by 25%."
+          ],
+          [
+            "51",
+            "Ultimate Burst",
+            "Passive",
+            "Increases Rocksplosion's area of effect for the most powerful burst."
+          ],
+          [
+            "58",
+            "Ore & Stone Storage",
+            "Recipe",
+            "Unlocks Ore & Stone Storage, a high-capacity storage for ores and stones."
+          ],
+          [
+            "71",
+            "Ingot Weight Reduction",
+            "Passive",
+            "Reduces the weight of ingots by 50%."
+          ],
+          [
+            "80",
+            "Divine Rock",
+            "Spell",
+            "Drop 5 ore on the ground and turn it into a personal mining vein!"
+          ],
+          [
+            "90",
+            "Accelerated Veins",
+            "Passive",
+            "Gives Divine Rock a chance to drop gems."
+          ],
+          [
+            "99",
+            "Mining Cape",
+            "Recipe",
+            "Unlocks the ability to craft and wear the Mining skillcape."
+          ]
+        ]
+      }
+    ]
+  },
+  "Mystic Forge": {
+    "source": "https://dragonwilds.runescape.wiki/w/Mystic_Forge",
+    "tables": [
+      {
+        "headers": [
+          "Ascendable items"
+        ],
+        "rows": [
+          [
+            "One-handed melee"
+          ],
+          [
+            "Two-handed melee"
+          ],
+          [
+            "Crossbows"
+          ],
+          [
+            "Shields"
+          ],
+          [
+            "Shortbows"
+          ],
+          [
+            "Longbows"
+          ],
+          [
+            "Staves"
+          ],
+          [
+            "Wands"
+          ],
+          [
+            "Armour Sets"
+          ],
+          [
+            "Armour Sets"
+          ],
+          [
+            "Armour Sets"
+          ]
+        ]
+      }
+    ]
+  },
+  "Player Character": {
+    "source": "https://dragonwilds.runescape.wiki/w/Player_Character",
+    "tables": []
+  },
+  "Ratcatcher": {
+    "source": "https://dragonwilds.runescape.wiki/w/Ratcatcher",
+    "tables": []
+  },
+  "Regicide": {
+    "source": "https://dragonwilds.runescape.wiki/w/Regicide",
+    "tables": []
+  },
+  "Rune Altar": {
+    "source": "https://dragonwilds.runescape.wiki/w/Rune_Altar",
+    "tables": []
+  },
+  "Rune Mysteries": {
+    "source": "https://dragonwilds.runescape.wiki/w/Rune_Mysteries",
+    "tables": []
+  },
+  "Saga": {
+    "source": "https://dragonwilds.runescape.wiki/w/Saga",
+    "tables": [
+      {
+        "headers": [
+          "Sagas",
+          "Quests",
+          "Region"
+        ],
+        "rows": [
+          [
+            "Kuldra's Saga",
+            "Dragon Slayer",
+            "Brynmoor/Ghornfell"
+          ],
+          [
+            "Kuldra's Saga",
+            "Withering Heights",
+            "Fellhollow"
+          ],
+          [
+            "Kuldra's Saga",
+            "Black Knight's Fortress",
+            "Dowdun Reach"
+          ],
+          [
+            "Kuldra's Saga",
+            "Icthlarin's Little Helper",
+            "Umbral Sands"
+          ],
+          [
+            "Kuldra's Saga",
+            "Regicide",
+            "Scorned Wilderness"
+          ],
+          [
+            "Blood Crystal Saga",
+            "To be revealed...",
+            ""
+          ]
+        ]
+      }
+    ]
+  },
+  "Skills": {
+    "source": "https://dragonwilds.runescape.wiki/w/Skills",
+    "tables": [
+      {
+        "headers": [
+          "Skill type",
+          "Skill",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Combat",
+            "Attack",
+            "Defeat enemies with melee weapons to level this skill."
+          ],
+          [
+            "Combat",
+            "Magic",
+            "Defeat enemies with magic or cast spells to level this skill."
+          ],
+          [
+            "Combat",
+            "Ranged",
+            "Defeat enemies with ranged weapons to level this skill."
+          ],
+          [
+            "Combat",
+            "Prayer",
+            "Currently unreleased. This skill will be added in a future update."
+          ],
+          [
+            "Gathering",
+            "Mining",
+            "Mine ore, clay, or stone, or gather stones from the floor to level this skill."
+          ],
+          [
+            "Gathering",
+            "Woodcutting",
+            "Chop down trees, tear up saplings or collect logs from the floor to level this skill."
+          ],
+          [
+            "Gathering",
+            "Farming",
+            "Grow crops to level this skill."
+          ],
+          [
+            "Gathering",
+            "Fishing",
+            "Catch fish to level this skill."
+          ],
+          [
+            "Gathering",
+            "Hunter",
+            "Currently unreleased. This skill will be added in a future update."
+          ],
+          [
+            "Artisan",
+            "Runecrafting",
+            "Gather rune essence and craft runes to level this skill."
+          ],
+          [
+            "Artisan",
+            "Construction",
+            "Build new structures to level this skill."
+          ],
+          [
+            "Artisan",
+            "Artisan",
+            "Craft new weapons, armour or tools to level this skill."
+          ],
+          [
+            "Artisan",
+            "Cooking",
+            "Cook food to level this skill."
+          ],
+          [
+            "Support",
+            "Agility",
+            "Run courses and traverse the world."
+          ],
+          [
+            "Support",
+            "Slayer",
+            "Currently unreleased. This skill will be added in a future update."
+          ]
+        ]
+      }
+    ]
+  },
+  "Spinning Wheel": {
+    "source": "https://dragonwilds.runescape.wiki/w/Spinning_Wheel",
+    "tables": []
+  },
+  "Tannery": {
+    "source": "https://dragonwilds.runescape.wiki/w/Tannery",
+    "tables": []
+  },
+  "Withering Heights": {
+    "source": "https://dragonwilds.runescape.wiki/w/Withering_Heights",
+    "tables": []
+  },
+  "Woodcutting": {
+    "source": "https://dragonwilds.runescape.wiki/w/Woodcutting",
+    "tables": [
+      {
+        "headers": [
+          "Spell",
+          "Level",
+          "Upgrade",
+          "Upgrade level"
+        ],
+        "rows": [
+          [
+            "Axtral Projection",
+            "11",
+            "—",
+            "88"
+          ],
+          [
+            "Splinter",
+            "27",
+            "—",
+            "—"
+          ],
+          [
+            "Trunk Totem",
+            "52",
+            "—",
+            "—"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Power level",
+          "Choppable trees"
+        ],
+        "rows": [
+          [
+            "Stone logging axe",
+            "1",
+            "Ash tree"
+          ],
+          [
+            "Bronze logging axe",
+            "3",
+            "The following trees, including previous tier: Oak tree"
+          ],
+          [
+            "Iron logging axe",
+            "4",
+            "The following trees, including previous tier: Blightwood root Bloodwood tree Willow tree"
+          ],
+          [
+            "Steel logging axe",
+            "5",
+            "The following trees, including previous tier: Dead tree Thorny irit root"
+          ],
+          [
+            "Mithril logging axe",
+            "6",
+            "The following trees, including previous tier: Maple tree"
+          ],
+          [
+            "Adamant logging axe",
+            "7",
+            "The following trees, including previous tier: Yew tree"
+          ],
+          [
+            "Rune logging axe",
+            "8",
+            "The following trees, including previous tier: Magic tree"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Benefit"
+        ],
+        "rows": [
+          [
+            "Lumber backpack",
+            "Provides the following benefits: -10% Wood Weight Reduction +10% Woodcutting XP +10% wood from chopping trees +15% special item drop chance"
+          ],
+          [
+            "Unholy symbol",
+            "Provides a 15% increase in damage for all combat styles, while lowering your maximum health by 15 points."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Focused Woodcutting",
+            "Grants a 15% XP BOOST for the WOODCUTTING Skill"
+          ],
+          [
+            "Focused Woodcutting II",
+            "Grants a 30% XP BOOST for the WOODCUTTING Skill"
+          ],
+          [
+            "Lumberjack",
+            "REDUCES the STAMINA cost of WOODCUTTING by 33%"
+          ],
+          [
+            "Lumberjack II",
+            "REDUCES the STAMINA cost of WOODCUTTING by 66%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Trinket",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Inspiring Ring of Woodcutting",
+            "Increases the player's experience gain in Woodcutting by 5%"
+          ],
+          [
+            "Skills Necklace",
+            "Grants a small bonus chance to get extra resources when gathering Fishing, Mining and Woodcutting resources."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Food",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Sweet Veg Ball",
+            "300s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Wild Pie",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Forager's Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Meat Twist Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ],
+          [
+            "Glazed Pumpkin Sandwich",
+            "600s",
+            "Knowledgable Nourishment",
+            "Increases the player's experience gain in all skills by 10%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Potion",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Weak Focused Woodcutting Potion",
+            "300s",
+            "Focused Woodcutting",
+            "Grants a 15% XP BOOST for the WOODCUTTING Skill"
+          ],
+          [
+            "Lesser Focused Woodcutting Potion",
+            "600s",
+            "Focused Woodcutting",
+            "Grants a 15% XP BOOST for the WOODCUTTING Skill"
+          ],
+          [
+            "Focused Woodcutting Potion",
+            "300s",
+            "Focused Woodcutting II",
+            "Grants a 30% XP BOOST for the WOODCUTTING Skill"
+          ],
+          [
+            "Super Focused Woodcutting Potion",
+            "600s",
+            "Focused Woodcutting II",
+            "Grants a 30% XP BOOST for the WOODCUTTING Skill"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Item",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Woodcutting Cape",
+            "You have a small chance to instantly finish chopping a tree."
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Food",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Cheeky Fryup",
+            "300s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Mushroom Kebab",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Meat Twist Sandwich",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Glazed Pumpkin Sandwich",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ],
+          [
+            "Maple Toastie",
+            "600s",
+            "Foreman's Feast",
+            "Reduces the stamina reduction for Woodcutting and Mining by 33%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Potion",
+          "Duration",
+          "Perk",
+          "Description"
+        ],
+        "rows": [
+          [
+            "Weak Lumberjack Potion",
+            "300s",
+            "Lumberjack",
+            "REDUCES the STAMINA cost of WOODCUTTING by 33%"
+          ],
+          [
+            "Lesser Lumberjack Potion",
+            "600s",
+            "Lumberjack",
+            "REDUCES the STAMINA cost of WOODCUTTING by 33%"
+          ],
+          [
+            "Lumberjack Potion",
+            "300s",
+            "Lumberjack II",
+            "REDUCES the STAMINA cost of WOODCUTTING by 66%"
+          ],
+          [
+            "Super Lumberjack Potion",
+            "600s",
+            "Lumberjack II",
+            "REDUCES the STAMINA cost of WOODCUTTING by 66%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Trees",
+          "Resource node",
+          "Primary resource",
+          "Other resources",
+          "Seeds",
+          "Minimum logging axe"
+        ],
+        "rows": [
+          [
+            "Resource node",
+            "Primary resource",
+            "Other resources",
+            "Seeds",
+            "Minimum logging axe",
+            ""
+          ],
+          [
+            "Ash tree",
+            "Ash Logs",
+            "-",
+            "Ash Tree Seed",
+            "Stone Logging Axe",
+            ""
+          ],
+          [
+            "Oak tree",
+            "Oak Logs",
+            "-",
+            "Oak Tree Seed",
+            "Bronze Logging Axe",
+            ""
+          ],
+          [
+            "Blightwood root",
+            "Blightwood",
+            "-",
+            "-",
+            "Iron Logging Axe",
+            ""
+          ],
+          [
+            "Bloodwood tree",
+            "Bloodwood Sap",
+            "-",
+            "-",
+            "Iron Logging Axe",
+            ""
+          ],
+          [
+            "Willow tree",
+            "Willow Logs",
+            "-",
+            "Willow Tree Seed",
+            "Iron Logging Axe",
+            ""
+          ],
+          [
+            "Dead tree",
+            "Hollow Bark",
+            "Ash Logs",
+            "-",
+            "Steel Logging Axe",
+            ""
+          ],
+          [
+            "Maple tree",
+            "Maple Logs",
+            "Maple Sap",
+            "Maple Tree Seed",
+            "Mithril Logging Axe",
+            ""
+          ],
+          [
+            "Yew tree",
+            "Yew Logs",
+            "-",
+            "Yew Tree Seed",
+            "Adamant Logging Axe",
+            ""
+          ],
+          [
+            "Magic tree",
+            "Magic Logs",
+            "-",
+            "Magic Tree Seed",
+            "Rune Logging Axe",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Level",
+          "Ability",
+          "Type",
+          "Description"
+        ],
+        "rows": [
+          [
+            "4",
+            "Overhead Chop",
+            "Ability",
+            "You can now perform an overhead chop, which deals greater damage against fallen logs, but very little damage against trees."
+          ],
+          [
+            "11",
+            "Axtral Projection",
+            "Spell",
+            "Conjures an Astral Axe and launches it forward, instantly chopping down trees in its path."
+          ],
+          [
+            "16",
+            "Bird Nest",
+            "Passive",
+            "It is now possible to find bird nests while felling trees. Bird nests contain useful items."
+          ],
+          [
+            "20",
+            "Chop Thorny Vines",
+            "Passive",
+            "Allows you to cut down thorny vines with a hatchet, granting access to hidden or blocked areas."
+          ],
+          [
+            "27",
+            "Splinter",
+            "Spell",
+            "A powerful spell that chops fallen trees into wood logs."
+          ],
+          [
+            "50",
+            "Trunk Totem",
+            "Spell",
+            "Transmute scattered tree trunks into a single totem. Follow up with Splinter for more efficient lumberjackery."
+          ],
+          [
+            "59",
+            "Lumber Backpack",
+            "Recipe",
+            "Stylish? Yes! But not only that... A highly functional backpack that improves your luck with rare wood resource drops. It also lightens the weight of carries wood, and gives a gentle boost to woodcutting progression."
+          ],
+          [
+            "67",
+            "Lumber Storage",
+            "Recipe",
+            "Unlocks Lumber Storage, a high-capacity storage for logs and planks."
+          ],
+          [
+            "78",
+            "Axtral Projection Upgrade",
+            "Passive",
+            "Now it conjures three spectral axes, carving through even more trees along their path."
+          ],
+          [
+            "88",
+            "Wood Weight Reduction",
+            "Passive",
+            "Reduces the weight of wood by 50%."
+          ],
+          [
+            "99",
+            "Woodcutting Cape",
+            "Passive",
+            "A true showcase of Skill Mastery. Unlocks the ability to craft and wear the Woodcutting Skillcape."
+          ]
+        ]
+      }
+    ]
+  }
+}
